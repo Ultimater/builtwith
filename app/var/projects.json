@@ -1280,7 +1280,7 @@
       ]
     },
     {
-      "permalink": "soccer livescore",
+      "permalink": "soccer-livescore",
       "name": "Soccer Livescore Website",
       "summary": "The fastest soccer livescore website, written with Phalcon!",
       "description": "We work hard to build a awesome website",
@@ -1493,7 +1493,7 @@
       ]
     },
     {
-      "permalink": "safe_password_generate",
+      "permalink": "safe-password-generate",
       "name": "Random and secure password generator",
       "summary": "Random and secure password generator!",
       "description": "This site uses Javascript to generate safe, secure, and impossible-to-break passwords. All the work is done by your brouser only, and if you just picked a password to use, please make sure to save it somewhere, because as soon as you close this site, refresh the browser or generate another password using our functions, the previews password/s can NOT be regenerated!",
